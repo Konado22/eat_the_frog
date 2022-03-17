@@ -6,6 +6,13 @@ The purpose of this application is to serve as a task manager with a built in in
 
 Out of the many task manager applications in existence, this one serves to be unique in that it gives the user the ability to customize their layout and also provides a reward system for completing more tasks, which ultimately leads to a greater sense of accomplishment and happiness for the user.
 
+## Features
+- Mobile Widget
+- Weather tracker by location
+- quote generator
+- task manager
+- badge based reward system
+- 
 ## Table of Contents
 
 - [Installation](#installation)
